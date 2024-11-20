@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.54d2c3a4.css",
-    "main.js": "/static/js/main.1b46f323.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "index.html": "/index.html",
-    "main.54d2c3a4.css.map": "/static/css/main.54d2c3a4.css.map",
-    "main.1b46f323.js.map": "/static/js/main.1b46f323.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/shairomar-7.github.io/static/css/main.54d2c3a4.css",
+    "main.js": "/shairomar-7.github.io/static/js/main.55824994.js",
+    "static/js/453.1407b060.chunk.js": "/shairomar-7.github.io/static/js/453.1407b060.chunk.js",
+    "index.html": "/shairomar-7.github.io/index.html",
+    "main.54d2c3a4.css.map": "/shairomar-7.github.io/static/css/main.54d2c3a4.css.map",
+    "main.55824994.js.map": "/shairomar-7.github.io/static/js/main.55824994.js.map",
+    "453.1407b060.chunk.js.map": "/shairomar-7.github.io/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54d2c3a4.css",
-    "static/js/main.1b46f323.js"
+    "static/js/main.55824994.js"
   ]
 }
